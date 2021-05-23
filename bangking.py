@@ -42,9 +42,4 @@ class Bank(User):
         print('Account balance:', self.balance, 'THB')
 
 if __name__ == "__main__":    
-    acc = Bank('Joe', '03/10/1993', 'Male')
-    acc.deposit(100)
-    acc.deposit(200)
-    acc.deposit(300)
-    acc.withdraw(200)
-    acc.view_balance()
+    pass
