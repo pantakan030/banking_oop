@@ -6,10 +6,10 @@ Object Orienterd Programming Practice:
 
 2 Classes
 - User (to hold customer data and described customer data)
--- Get User information 
--- Show User information
+-- Get User information   
+-- Show User information  
 
 - Bank (to get user's balance and banking activities)
--- Deposite
--- Withdrawal
--- Shoe balance detail
+-- Deposite  
+-- Withdrawal  
+-- Shoe balance detail  
